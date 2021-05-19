@@ -1,0 +1,76 @@
+/* X-Small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+
+/* Extra Small devices (landscape phones, 340px and below) */
+@media (max-width: 340px) {
+    /* FOOTER  */
+    .footer .copyright{
+        font-size: 12px !important;
+    }
+    .header-logo{
+        font-size: 10px !important;
+    }
+ }
+
+
+/* Small devices (landscape phones, 576px and below) */
+@media (max-width: 576px) {
+    /* FOOTER  */
+    .footer .copyright{
+        font-size: 15px ;
+    }
+ 
+    .header-logo{
+        font-size: 15px;
+    }
+
+    
+ }
+
+
+/* Medium devices (tablets, 768px and below) */
+@media (max-width: 768px) { 
+    .footer-block1{
+        display:flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0px 3px  !important;
+    }
+    .footer-block2{
+        display:flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center ;
+        padding: 0px 3px  !important;
+    }
+    .space-login .col-md-3{
+        display: flex;
+        justify-content: center;
+        margin-bottom:2rem ;
+    }
+}
+
+/* Large devices (desktops, 992px and below) */
+@media (max-width: 992px) { 
+
+    /* About */
+
+ 
+
+ 
+}
+
+/* X-Large devices (large desktops, 1200px and below) */
+@media (min-width: 1200px) {  
+
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and below) */
+@media (max-width: 1400px) {
+
+
+   
+}
