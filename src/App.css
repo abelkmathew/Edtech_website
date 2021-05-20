@@ -53,7 +53,9 @@ body{
 .site-header {
   background:linear-gradient(to right,rgb(13, 128, 48),rgb(161, 197, 2)); 
 }
-
+.logo-link{
+  text-decoration: none;
+}
 
 .header-logo{
   font-family: 'Pattaya', sans-serif;

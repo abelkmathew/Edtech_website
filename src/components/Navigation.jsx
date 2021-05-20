@@ -10,8 +10,11 @@ function Navigation(props) {
       <div className="site-header fixed-top">
             <nav id='primary-navigation' className="navbar navbar-expand-lg navbar-light nav-pills nav-fill">
                 <div className="container">
-                    <div className="navbar-header navbar-brand">    
-                        <a href="/" className='header-logo'><img class="logo" src={logo} alt="Logo"></img>Providence Academy</a>
+                    <div className="navbar-header navbar-brand">  
+                   <div className={`nav-item  ${props.location.pathname === "/" ? "active" : ""}`}>
+                                <Link class="logo-link" to="/"><a href="/" className='header-logo'><img class="logo" src={logo} alt="Logo"></img>
+                                Providence Academy</a></Link>  </div>
+                       
                     </div>
                     <div className="mobile-menu-icon">
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" 
