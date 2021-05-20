@@ -50,6 +50,7 @@
         justify-content: center;
         margin-bottom:2rem ;
     }
+
 }
 
 /* Large devices (desktops, 992px and below) */
@@ -57,7 +58,11 @@
 
     /* About */
 
- 
+ .course{
+    display: grid;
+    align-items: center;
+    justify-content:space-between;
+ }
 
  
 }

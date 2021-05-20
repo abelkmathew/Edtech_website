@@ -26,7 +26,7 @@ function Contact() {
               </div>
               <div className="col--md-12">
                 <label>Message</label>
-               <textarea className="form-control" rows="5" id="" placeholder="Type Your Query..."></textarea> <br/>
+               <textarea className="form-control" rows="5" id="" placeholder="Type a message..."></textarea> <br/>
               </div>
               <div className="col-md-12 button">
                <button type="submit" className="btn btn-success">Send Message</button>

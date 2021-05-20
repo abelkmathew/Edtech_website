@@ -7,7 +7,7 @@ function Footer() {
       <div className="container">
           <div className="row">
               <div className="col-md-6 col-sm-12 footer-block1 ">
-                  <div className="logo1"> <a href="/" className='header-logo'><img class="logo" src={logo}></img>Providence Academy</a></div><br/>
+                  <div className="logo1"> <a href="/" className='header-logo'><img class="logo" src={logo} alt="Logo"></img>Providence Academy</a></div><br/>
                   <p className="Sub-heading" >Follow Us On<br/>
                   <a href="facebook.com"><i className="bi bi-facebook"></i></a>
                   <a href="twitter.com"><i className="bi bi-twitter "></i></a>

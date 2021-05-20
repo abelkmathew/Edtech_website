@@ -1,4 +1,4 @@
-import { render } from "@testing-library/react";
+// import { render } from "@testing-library/react";
 import React from "react";
 import { Link, withRouter } from "react-router-dom";
 import logo from './Assets/logo.png';
@@ -6,14 +6,12 @@ import logo from './Assets/logo.png';
 
 function Navigation(props) {
   return (
-
-
     <div className="navigation ">
       <div className="site-header fixed-top">
             <nav id='primary-navigation' className="navbar navbar-expand-lg navbar-light nav-pills nav-fill">
                 <div className="container">
                     <div className="navbar-header navbar-brand">    
-                        <a href="/" className='header-logo'><img class="logo" src={logo}></img>Providence Academy</a>
+                        <a href="/" className='header-logo'><img class="logo" src={logo} alt="Logo"></img>Providence Academy</a>
                     </div>
                     <div className="mobile-menu-icon">
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" 

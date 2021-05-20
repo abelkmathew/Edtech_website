@@ -27,7 +27,7 @@ function About() {
                     <a href="#instructors" className="btn btn-success">Our Instructors<i className="bi-arrow-down-short"></i></a>
                 </div>
                 <div className="col-md-6">
-                  <img className="img-fluid" src={image} alt="image"></img>
+                  <img className="img-fluid" src={image} alt="Vision"></img>
                 </div>
             </div><br /><br /><br />
             <div className="col-md-12"></div>
@@ -35,7 +35,7 @@ function About() {
             <div className="meet row">
               <div className="col-md-4 col-sm-12">
                 <div className="card" >
-                    <img src={team_m1} className="card-img-top" alt="..."/>
+                    <img src={team_m1} className="card-img-top" alt="Team-Member"/>
                     <div className="card-body">
                       <p className="card-text"><h6>Irene Sam</h6>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                       Provident, magni. Laboriosam tempore cumque repellat deserunt illo error 
@@ -45,7 +45,7 @@ function About() {
               </div>
               <div className="col-md-4 col-sm-12">
                 <div className="card" >
-                    <img src={team_m2} className="card-img-top" alt="..."/>
+                    <img src={team_m2} className="card-img-top" alt="Team-Member"/>
                     <div className="card-body">
                       <p className="card-text"><h6>George Varghese</h6>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                       Provident, magni. Laboriosam tempore cumque repellat deserunt illo error 
@@ -55,7 +55,7 @@ function About() {
               </div>   
               <div className="col-md-4">
                 <div className="card" >
-                    <img src={team_m3} className="card-img-top" alt="..."/>
+                    <img src={team_m3} className="card-img-top" alt="Team-Member"/>
                     <div className="card-body">
                       <p className="card-text"><h6>Hendry John</h6>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                       Provident, magni. Laboriosam tempore cumque repellat deserunt illo error 
@@ -65,7 +65,7 @@ function About() {
               </div>   
               <div className="col-md-4">
                 <div className="card" >
-                    <img src={team_m4} className="card-img-top" alt="..."/>
+                    <img src={team_m4} className="card-img-top" alt="Team-Member"/>
                     <div className="card-body">
                       <p className="card-text"><h6>Sam Joseph </h6>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                       Provident, magni. Laboriosam tempore cumque repellat deserunt illo error 
@@ -75,7 +75,7 @@ function About() {
               </div>   
               <div className="col-md-4">
                 <div className="card" >
-                    <img src={team_m5} className="card-img-top" alt="..."/>
+                    <img src={team_m5} className="card-img-top" alt="Team-Member"/>
                     <div className="card-body">
                       <p className="card-text"><h6>Sona Mary</h6>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                       Provident, magni. Laboriosam tempore cumque repellat deserunt illo error 
@@ -85,7 +85,7 @@ function About() {
               </div>   
               <div className="col-md-4">
                 <div className="card" >
-                    <img src={team_m6} className="card-img-top" alt="..."/>
+                    <img src={team_m6} className="card-img-top" alt="Team-Member"/>
                     <div className="card-body">
                       <p className="card-text"><h6>Ann Thomas</h6>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                       Provident, magni. Laboriosam tempore cumque repellat deserunt illo error 
