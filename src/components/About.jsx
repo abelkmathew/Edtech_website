@@ -17,7 +17,7 @@ function About() {
           <div className="section-title"><h1>ABOUT US</h1></div><br />
             <div className="row">
                 <div className="col-md-6">
-                    <div><h2>hhhhhhOur Vision</h2></div><br />
+                    <div><h2>Our Vision</h2></div><br />
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, deserunt harum. 
                       Aliquam quaerat consectetur, dicta voluptates minus iure suscipit sit, 
                       tempore amet quae sunt maiores? Dicta repudiandae ipsa animi ratione! Lorem ipsum dolor sit amet 

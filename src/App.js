@@ -9,15 +9,13 @@ function App() {
     <div className="App">
       <Router>
         <Navigation/>
-        <Switch>
-          
+        <Switch> 
           <Route path="/" exact component={() => <Home />} />
           <Route path="/about" exact component={() => <About />} />
           <Route path="/courses" exact component={() => <Courses />} />
           <Route path="/contact" exact component={() => <Contact />} />
           <Route path="/login" exact component={() => <Login />} />
-          <Route path="/buy" exact component={() => <Buy />} />
-          
+          <Route path="/buy" exact component={() => <Buy />} />  
         </Switch>
         <Footer/>
       </Router>
