@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Edtech_website/static/css/main.a82b56cc.chunk.css",
-    "main.js": "/Edtech_website/static/js/main.4e784bf2.chunk.js",
-    "main.js.map": "/Edtech_website/static/js/main.4e784bf2.chunk.js.map",
+    "main.css": "/Edtech_website/static/css/main.b667859a.chunk.css",
+    "main.js": "/Edtech_website/static/js/main.e86a13c5.chunk.js",
+    "main.js.map": "/Edtech_website/static/js/main.e86a13c5.chunk.js.map",
     "runtime-main.js": "/Edtech_website/static/js/runtime-main.0405e48f.js",
     "runtime-main.js.map": "/Edtech_website/static/js/runtime-main.0405e48f.js.map",
     "static/js/2.a092c00a.chunk.js": "/Edtech_website/static/js/2.a092c00a.chunk.js",
     "static/js/2.a092c00a.chunk.js.map": "/Edtech_website/static/js/2.a092c00a.chunk.js.map",
     "index.html": "/Edtech_website/index.html",
-    "static/css/main.a82b56cc.chunk.css.map": "/Edtech_website/static/css/main.a82b56cc.chunk.css.map",
+    "static/css/main.b667859a.chunk.css.map": "/Edtech_website/static/css/main.b667859a.chunk.css.map",
     "static/js/2.a092c00a.chunk.js.LICENSE.txt": "/Edtech_website/static/js/2.a092c00a.chunk.js.LICENSE.txt",
     "static/media/ML.fb222e5a.jpg": "/Edtech_website/static/media/ML.fb222e5a.jpg",
     "static/media/about.7523e4ae.png": "/Edtech_website/static/media/about.7523e4ae.png",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.0405e48f.js",
     "static/js/2.a092c00a.chunk.js",
-    "static/css/main.a82b56cc.chunk.css",
-    "static/js/main.4e784bf2.chunk.js"
+    "static/css/main.b667859a.chunk.css",
+    "static/js/main.e86a13c5.chunk.js"
   ]
 }
