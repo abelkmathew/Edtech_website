@@ -1,3 +1,4 @@
+// import React,{Component} from 'react'
 import { Link } from "react-router-dom";
 
 import cart_image from './Assets/img9.png';
@@ -10,7 +11,7 @@ function Buy() {
                 <div className="section-title"><h1>Shopping Cart</h1></div>
                 <div className="row">
                     <div className="col-md-7"><br />
-                        <img class="img-fluid" src={cart_image} alt="Cart-img" />
+                        <img class="img-fluid" src={cart_image} alt="Cart-Img" />
                     </div>
                     <div className="col-md-5"><br /><br />
                         <div className="summary-box"><h3>Summary</h3>
