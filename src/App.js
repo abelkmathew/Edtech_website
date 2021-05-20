@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Redirect, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Navigation, Footer, Home, About, Contact, Courses,Login,Buy} from "./components";
 import './App.css'
 import './responsive.css'
