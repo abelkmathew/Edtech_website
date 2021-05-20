@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Edtech_website/static/css/main.a82b56cc.chunk.css",
+    "main.js": "/Edtech_website/static/js/main.20456ea8.chunk.js",
+    "main.js.map": "/Edtech_website/static/js/main.20456ea8.chunk.js.map",
+    "runtime-main.js": "/Edtech_website/static/js/runtime-main.0405e48f.js",
+    "runtime-main.js.map": "/Edtech_website/static/js/runtime-main.0405e48f.js.map",
+    "static/js/2.a092c00a.chunk.js": "/Edtech_website/static/js/2.a092c00a.chunk.js",
+    "static/js/2.a092c00a.chunk.js.map": "/Edtech_website/static/js/2.a092c00a.chunk.js.map",
+    "index.html": "/Edtech_website/index.html",
+    "static/css/main.a82b56cc.chunk.css.map": "/Edtech_website/static/css/main.a82b56cc.chunk.css.map",
+    "static/js/2.a092c00a.chunk.js.LICENSE.txt": "/Edtech_website/static/js/2.a092c00a.chunk.js.LICENSE.txt",
+    "static/media/ML.fb222e5a.jpg": "/Edtech_website/static/media/ML.fb222e5a.jpg",
+    "static/media/about.7523e4ae.png": "/Edtech_website/static/media/about.7523e4ae.png",
+    "static/media/android.b8fd409b.jpg": "/Edtech_website/static/media/android.b8fd409b.jpg",
+    "static/media/bg.69f1ad98.png": "/Edtech_website/static/media/bg.69f1ad98.png",
+    "static/media/bigdata.be4a78b9.jpg": "/Edtech_website/static/media/bigdata.be4a78b9.jpg",
+    "static/media/digitalmarketing.f2b96082.jpg": "/Edtech_website/static/media/digitalmarketing.f2b96082.jpg",
+    "static/media/hero.6ea3716a.jpg": "/Edtech_website/static/media/hero.6ea3716a.jpg",
+    "static/media/img6.336a340c.jpg": "/Edtech_website/static/media/img6.336a340c.jpg",
+    "static/media/img9.0952e1dd.png": "/Edtech_website/static/media/img9.0952e1dd.png",
+    "static/media/logo.f1383bac.png": "/Edtech_website/static/media/logo.f1383bac.png",
+    "static/media/python.21180bf0.jpg": "/Edtech_website/static/media/python.21180bf0.jpg",
+    "static/media/student1.68c0ac36.jpg": "/Edtech_website/static/media/student1.68c0ac36.jpg",
+    "static/media/student2.49e11dae.jpg": "/Edtech_website/static/media/student2.49e11dae.jpg",
+    "static/media/student3.2b04f358.jpg": "/Edtech_website/static/media/student3.2b04f358.jpg",
+    "static/media/team.1a994d4a.png": "/Edtech_website/static/media/team.1a994d4a.png",
+    "static/media/team1.1c582629.jpg": "/Edtech_website/static/media/team1.1c582629.jpg",
+    "static/media/team2.0e0189a9.jpg": "/Edtech_website/static/media/team2.0e0189a9.jpg",
+    "static/media/team3.8f4e19c8.jpg": "/Edtech_website/static/media/team3.8f4e19c8.jpg",
+    "static/media/team4.f93aa042.jpg": "/Edtech_website/static/media/team4.f93aa042.jpg",
+    "static/media/team5.7f068aa8.jpg": "/Edtech_website/static/media/team5.7f068aa8.jpg",
+    "static/media/team6.0d7f0c12.jpg": "/Edtech_website/static/media/team6.0d7f0c12.jpg",
+    "static/media/web.596fae38.png": "/Edtech_website/static/media/web.596fae38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0405e48f.js",
+    "static/js/2.a092c00a.chunk.js",
+    "static/css/main.a82b56cc.chunk.css",
+    "static/js/main.20456ea8.chunk.js"
+  ]
+}
