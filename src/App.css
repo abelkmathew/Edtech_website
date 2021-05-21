@@ -104,10 +104,33 @@ body{
   min-height: 40vh;
   width: 100%;
 }
+.news-marquee{
+  margin-top: 6rem;
+  padding-bottom: 0rem;
+}
+.marquee-text p{
+  display: inline;
+  text-decoration: underline;
+}
+.news-marquee a{
+  text-decoration: none;
+  color: #f80707;
+  animation: blinktext3  5s infinite;
+  font-size: 20px;
+}
+
+@keyframes blinktext3 {
+  0%{color:blue}
+  50%{color: #f80707;}
+  100%{color: rgb(201, 11, 74);}
+  
+}
+
+
 /*********** HERO  ************/
 
 .hero{
-  min-height: 100vh;
+  min-height: 70vh;
   height: 100%;
   width:100%;
   display: flex;
@@ -134,11 +157,17 @@ body{
 
 
 /************** SECTION 1 *****************/
+.s1{
+  display: flex;
+  align-items: center;
+  justify-items: end;
+}
 .s1 h1{
   font-size: 70px;
   color:rgb(255, 51, 0);
   animation: blinkingText2 2s infinite;
 }
+
 @keyframes blinkingText2{
   0%		{ color: #0c9908;}
   25%		{ color: #0a0a09;}
@@ -156,15 +185,17 @@ body{
   display: flex;
   align-items: center;
   justify-content: stretch;
-  /* margin-left: 25%; */
   width:800px
 }
 
 
+
 #s2 .slide{
   display: grid;
+  
   align-items:stretch;
   justify-content: stretch;
+  
 }
 
 
@@ -238,10 +269,20 @@ body{
   display: flex;
   justify-content: flex-end;
   padding-top: 1rem;
+}
+
+.rate-course h6{
+  padding-right: 20px;
+  animation:none !important;
+  text-decoration: line-through;
+}
+
+.rate-course h4{
   animation: blinkingText 2s infinite;
 }
 .courses .card-body{
   padding-bottom: 2rem;
+  
 }
 @keyframes blinkingText{
   0%		{ color: #09ff00;}

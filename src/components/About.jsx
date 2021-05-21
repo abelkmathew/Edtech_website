@@ -24,14 +24,14 @@ function About() {
                       consectetur adipisicing elit. Expedita sint velit sapiente iure magni esse deleniti autem saepe aliquam 
                       accusamus,vel blanditiis neque assumenda, excepturi ducimus itaque officiis quibusdam minima?
                     </p>
-                    <a href="#instructors" className="btn btn-success">Our Instructors<i className="bi-arrow-down-short"></i></a>
+                    <a href="/about/" className="btn btn-success">Our Instructors<i className="bi-arrow-down-short"></i></a>
                 </div>
                 <div className="col-md-6">
                   <img className="img-fluid" src={image} alt="Vision"></img>
                 </div>
             </div><br /><br /><br />
             <div className="col-md-12"></div>
-            <div className="section-title" id="instructors"><h2>Meet our Instructors</h2></div><br /><br />
+            <div className="section-title mmm" id="instructors"><h2>Meet our Instructors</h2></div><br /><br />
             <div className="meet row">
               <div className="col-md-4 col-sm-12">
                 <div className="card" >

@@ -18,7 +18,7 @@ function Navigation(props) {
                     </div>
                     <div className="mobile-menu-icon">
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" 
-                            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" data-bs-dismiss="main-menu">
                         <span className="navbar-toggler-icon"></span>
                     </button></div>
                     <div className="main-menu collapse navbar-collapse justify-content-end" id="navbarNavDropdown">

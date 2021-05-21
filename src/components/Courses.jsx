@@ -1,4 +1,5 @@
 import React from 'react'
+
 import c1 from './Assets/web.png'
 import c2 from './Assets/android.jpg'
 import c3 from './Assets/python.jpg'
@@ -7,7 +8,6 @@ import c5 from './Assets/ML.jpg'
 import c6 from './Assets/bigdata.jpg'
 
 import { Link } from "react-router-dom";
-
 
 
 function Courses() {
@@ -22,9 +22,14 @@ function Courses() {
                         <div class="card-body">
                             <h5 class="card-title">Web Development</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                            <div className="rate-course"><h4 >Rs. 1999/-</h4></div>
+                            <div className="rate-course"><h6>Rs.2999</h6><h4 >Rs. 1499/-</h4></div>
                             </p>
-                            <div className="coursebtn"><a href="#" class="btn btn-secondary btn-sm">Learn More</a></div>
+                            <div className="coursebtn"><a class="btn btn-secondary btn-sm"
+                             tabindex="1" role="button" data-bs-toggle="popover" 
+                            data-bs-trigger="focus" title="Web Development" 
+                            data-bs-content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque felis sit amet ">
+                            Learn More</a></div>
+                            
                             <div className="buybtn">
                                 
                                 <Link className="buy-link" to="/buy"><a className="btn btn-warning btn-sm" >Buy</a></Link>
@@ -39,9 +44,9 @@ function Courses() {
                         <div class="card-body">
                             <h5 class="card-title">Android App Development</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet.
-                            <div className="rate-course"><h4 >Rs. 1999/-</h4></div>
+                            <div className="rate-course"><h6>Rs.2999</h6><h4 >Rs. 1499/-</h4></div>
                             </p>
-                            <div className="coursebtn"><a href="#" class="btn btn-secondary btn-sm">Learn More</a></div>
+                            <div className="coursebtn"><a href="#courses" class="btn btn-secondary btn-sm">Learn More</a></div>
                             <div className="buybtn">
                                 <Link className="buy-link" to="/buy"><a className="btn btn-warning btn-sm" >Buy</a></Link>
                             </div>
@@ -55,9 +60,9 @@ function Courses() {
                         <div class="card-body">
                             <h5 class="card-title">Python Programming</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                            <div className="rate-course"><h4 >Rs. 1999/-</h4></div>
+                            <div className="rate-course"><h6>Rs.2999</h6><h4 >Rs. 1499/-</h4></div>
                             </p>
-                            <div className="coursebtn"><a href="#" class="btn btn-secondary btn-sm">Learn More</a></div>
+                            <div className="coursebtn"><a href="#courses" class="btn btn-secondary btn-sm">Learn More</a></div>
                             <div className="buybtn">
                                 <Link className="buy-link" to="/buy"><a className="btn btn-warning btn-sm" >Buy</a></Link>
                             </div>
@@ -71,9 +76,9 @@ function Courses() {
                         <div class="card-body">
                             <h5 class="card-title">Digital Marketing</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                            <div className="rate-course"><h4 >Rs. 1999/-</h4></div>
+                            <div className="rate-course"><h6>Rs.2999</h6><h4 >Rs. 1499/-</h4></div>
                             </p>
-                            <div className="coursebtn"><a href="#" class="btn btn-secondary btn-sm">Learn More</a></div>
+                            <div className="coursebtn"><a href="#courses" class="btn btn-secondary btn-sm">Learn More</a></div>
                             <div className="buybtn">
                                 <Link className="buy-link" to="/buy"><a className="btn btn-warning btn-sm" >Buy</a></Link>
                             </div>
@@ -87,9 +92,9 @@ function Courses() {
                         <div class="card-body">
                             <h5 class="card-title">Machine Learning</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                            <div className="rate-course"><h4 >Rs. 1999/-</h4></div>
+                            <div className="rate-course"><h6>Rs.2999</h6><h4 >Rs. 1499/-</h4></div>
                             </p>
-                            <div className="coursebtn"><a href="#" class="btn btn-secondary btn-sm">Learn More</a></div>
+                            <div className="coursebtn"><a href="#courses" class="btn btn-secondary btn-sm">Learn More</a></div>
                             <div className="buybtn">
                                 <Link className="buy-link" to="/buy"><a className="btn btn-warning btn-sm" >Buy</a></Link>
                             </div>
@@ -103,9 +108,9 @@ function Courses() {
                         <div class="card-body">
                             <h5 class="card-title">Big Data</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit, amet.
-                            <div className="rate-course"><h4 >Rs. 1999/-</h4></div>
+                            <div className="rate-course"><h6>Rs.2999</h6><h4 >Rs. 1499/-</h4></div>
                             </p>
-                            <div className="coursebtn"><a href="#" class="btn btn-secondary btn-sm">Learn More</a></div>
+                            <div className="coursebtn"><a href="#courses" class="btn btn-secondary btn-sm">Learn More</a></div>
                             <div className="buybtn">
                                 <Link className="buy-link" to="/buy"><a className="btn btn-warning btn-sm" >Buy</a></Link>
                             </div>
@@ -115,9 +120,9 @@ function Courses() {
 
 
 
-                </div>
             </div>
         </div>
+    </div>
     )
 }
 

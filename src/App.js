@@ -1,4 +1,6 @@
-import React from "react";
+import React,{useState,useEffect} from "react";
+import CircleLoader from "react-spinners/CircleLoader";
+
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import { Navigation, Footer, Home, About, Contact, Courses,Login,Buy} from "./components";
 import './App.css'
@@ -7,7 +9,8 @@ import './responsive.css'
 function App() {
   return (
     <div className="App">
-      <Router>
+      {
+        <Router>
         <Navigation/>
         <Switch> 
           <Route path="/" exact component={() => <Home />} />
@@ -19,6 +22,9 @@ function App() {
         </Switch>
         <Footer/>
       </Router>
+
+      }
+      
 
     </div>
   );
