@@ -1,14 +1,30 @@
 ## EDTECH WEBSITE
 
 ## Contains Pages:
+
 1.Home
+
 2.About Us
+
 3.Courses
+
 4.Contact Us
+
 5.Login Page
+
 6.New Register Page
+
 7. Terms and Conditions
+
 8. Instructors
+
+
+
+
+
+
+
+
 
 
 
