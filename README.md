@@ -12,11 +12,11 @@
 
 5.Login Page 
 
-6.New Register Page
+6.New Register Page 
 
-7. Terms and Conditions
+7. Terms and Conditions 
 
-8. Instructors
+8. Instructors 
 
 9. Paymet Page
 
@@ -24,23 +24,23 @@
 
 Home page contains images and navigation links along with testimonials from user. The logo on the navigatioin menu takes you to home page from any page.
 
-##About
+### About
 
 This section contains company vision and details about instructors.
 
-##Courses
+### Courses
 
 This session contains different courses and there price. User can click buy option to proceed to payment page
 
-##Payment
+### Payment
 
 This session shows the amount to be paid and will ask to login and redirect to login page
 
-##Login
+### Login
 
 This page contains login and new user registeration link. User can also view the terms and conditions of the firm before registering
 
-##Contact
+### Contact
 
 This page contains forms to contact the company
 
