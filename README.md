@@ -1,6 +1,6 @@
-## RESPONSIVE EDTECH WEBSITE (using react)
+# RESPONSIVE EDTECH WEBSITE (using react)
 
-# Session Included:
+## Session Included:
 
 1.Home 
 
@@ -20,7 +20,7 @@
 
 9. Paymet Page
 
-##Home 
+### Home 
 
 Home page contains images and navigation links along with testimonials from user. The logo on the navigatioin menu takes you to home page from any page.
 
