@@ -14,11 +14,11 @@
 
 6.New Register Page 
 
-7. Terms and Conditions 
+7. Terms and Conditions (under new registeration page)
 
 8. Instructors 
 
-9. Paymet Page
+9. Payment Page (when buy option is clicked on course page)
 
 ### Home 
 
