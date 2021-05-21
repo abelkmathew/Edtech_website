@@ -1,6 +1,6 @@
-EDTECH WEBSITE
+## EDTECH WEBSITE
 
-Contains Pages:
+## Contains Pages:
 1.Home
 2.About Us
 3.Courses
