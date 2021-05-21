@@ -24,7 +24,7 @@ function About() {
                       consectetur adipisicing elit. Expedita sint velit sapiente iure magni esse deleniti autem saepe aliquam 
                       accusamus,vel blanditiis neque assumenda, excepturi ducimus itaque officiis quibusdam minima?
                     </p>
-                    <a href="/about/" className="btn btn-success">Our Instructors<i className="bi-arrow-down-short"></i></a>
+                    <a href="#about" className="btn btn-success">Our Instructors<i className="bi-arrow-down-short"></i></a>
                 </div>
                 <div className="col-md-6">
                   <img className="img-fluid" src={image} alt="Vision"></img>
