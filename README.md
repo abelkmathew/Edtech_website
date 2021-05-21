@@ -12,13 +12,13 @@
 
 5.Login Page 
 
-6.New Register Page  
+6.New Register Page
 
-7. Terms and Conditions   
+7. Terms and Conditions
 
-8. Instructors 
+8. Instructors
 
-9. Paymet Page 
+9. Paymet Page
 
 ##Home 
 
