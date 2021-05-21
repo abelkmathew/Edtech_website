@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Edtech_website/static/css/main.b667859a.chunk.css",
-    "main.js": "/Edtech_website/static/js/main.a1cee96a.chunk.js",
-    "main.js.map": "/Edtech_website/static/js/main.a1cee96a.chunk.js.map",
+    "main.css": "/Edtech_website/static/css/main.6cc4bbb3.chunk.css",
+    "main.js": "/Edtech_website/static/js/main.dbc1538e.chunk.js",
+    "main.js.map": "/Edtech_website/static/js/main.dbc1538e.chunk.js.map",
     "runtime-main.js": "/Edtech_website/static/js/runtime-main.0405e48f.js",
     "runtime-main.js.map": "/Edtech_website/static/js/runtime-main.0405e48f.js.map",
     "static/js/2.76d33a6e.chunk.js": "/Edtech_website/static/js/2.76d33a6e.chunk.js",
     "static/js/2.76d33a6e.chunk.js.map": "/Edtech_website/static/js/2.76d33a6e.chunk.js.map",
     "index.html": "/Edtech_website/index.html",
-    "static/css/main.b667859a.chunk.css.map": "/Edtech_website/static/css/main.b667859a.chunk.css.map",
+    "static/css/main.6cc4bbb3.chunk.css.map": "/Edtech_website/static/css/main.6cc4bbb3.chunk.css.map",
     "static/js/2.76d33a6e.chunk.js.LICENSE.txt": "/Edtech_website/static/js/2.76d33a6e.chunk.js.LICENSE.txt",
     "static/media/ML.fb222e5a.jpg": "/Edtech_website/static/media/ML.fb222e5a.jpg",
     "static/media/about.7523e4ae.png": "/Edtech_website/static/media/about.7523e4ae.png",
@@ -17,6 +17,9 @@
     "static/media/bigdata.be4a78b9.jpg": "/Edtech_website/static/media/bigdata.be4a78b9.jpg",
     "static/media/digitalmarketing.f2b96082.jpg": "/Edtech_website/static/media/digitalmarketing.f2b96082.jpg",
     "static/media/hero.6ea3716a.jpg": "/Edtech_website/static/media/hero.6ea3716a.jpg",
+    "static/media/img10.2ad61a97.png": "/Edtech_website/static/media/img10.2ad61a97.png",
+    "static/media/img11.53a9833d.png": "/Edtech_website/static/media/img11.53a9833d.png",
+    "static/media/img12.88e5a6db.png": "/Edtech_website/static/media/img12.88e5a6db.png",
     "static/media/img6.336a340c.jpg": "/Edtech_website/static/media/img6.336a340c.jpg",
     "static/media/img9.0952e1dd.png": "/Edtech_website/static/media/img9.0952e1dd.png",
     "static/media/logo.f1383bac.png": "/Edtech_website/static/media/logo.f1383bac.png",
@@ -36,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.0405e48f.js",
     "static/js/2.76d33a6e.chunk.js",
-    "static/css/main.b667859a.chunk.css",
-    "static/js/main.a1cee96a.chunk.js"
+    "static/css/main.6cc4bbb3.chunk.css",
+    "static/js/main.dbc1538e.chunk.js"
   ]
 }
